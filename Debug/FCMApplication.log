@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MFCApp1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Calculate.cpp
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(7,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(9,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(17,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(28,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(29,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(46,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(55,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(57,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(65,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(67,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(78,52): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(92,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(93,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApplication\FCMApplication\Calculate.cpp(111,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Memory.cpp
+  MFCApp1.cpp
+c1xx : fatal error C1083: Cannot open source file: 'MFCApp1.cpp': No such file or directory
+  MFCApp1Dlg.cpp
+c1xx : fatal error C1083: Cannot open source file: 'MFCApp1Dlg.cpp': No such file or directory
+  Generating Code...
